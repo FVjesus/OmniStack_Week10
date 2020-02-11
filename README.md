@@ -1,4 +1,4 @@
-# :emoji-fire: DevRadar
+#  DevRadar
 
 > Project developed in the week OmniStack 10 offered by Rocketseat
 
