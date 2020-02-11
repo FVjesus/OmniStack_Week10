@@ -5,10 +5,10 @@
 ## The Project
 DevRadar allows users to find other devs within a 10km radius by filtering by technology. This project presents basic concepts of FullStack development.
 
-![](../img/1.png)
-![](../img/2.png)
-![](../img/3.png)
-![](../img/4.png)
+![](/img/1.png)
+![](/img/2.png)
+![](/img/3.png)
+![](/img/4.png)
 
 ## Main platforms and technologies used:
 
