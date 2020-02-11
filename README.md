@@ -1,4 +1,4 @@
-# DevRadar
+# :emoji-fire: DevRadar
 
 > Project developed in the week OmniStack 10 offered by Rocketseat
 
@@ -7,12 +7,10 @@ DevRadar allows users to find other devs within a 10km radius by filtering by te
 
 ![](/img/1.png)
 
-<img src ="/img/2.png" 
-height ="1920" width="1080" >
 <img src ="/img/3.png" 
-height ="1920" width="1080" >
+height ="640" width="360" >
 <img src ="/img/4.png" 
-height ="1920" width="1080" >
+height ="640" width="360" >
 
 ## Main platforms and technologies used:
 
